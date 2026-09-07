@@ -11,3 +11,12 @@ Voor de twee pagina's die ik ga namaken heb ik gekozen voor [home](https://www.d
 ## week 1
 
 De eerste les heb ik vooral besteed aan het zoeken van een passende website om na te gaan maken, ik heb gekozen voor discogs.com. Daarna heb ik mijn github opgezet en heb ik een opzetje gemaakt voor mijn code.
+
+
+## week 2
+
+Tijdens de les zijn we vooral bezig geweest met een gebruikerstest vanuit het oogpunt van mensen met een beperking, hier volgen mijn bevindingen:
+
+- De meeste tekst is geschreven in 12px, hierdoor is het lastig of soms zelfs niet te lezen. (vlek bril)
+- De tabvolgorde van de buttons/links liggen niet op dezelfde volgorde als hoe ze visueel zijn ingedeeld. (trilhanden)
+
