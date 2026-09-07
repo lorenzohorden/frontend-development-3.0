@@ -21,4 +21,10 @@ Tijdens de les zijn we vooral bezig geweest met een gebruikerstest vanuit het oo
 - De tabvolgorde van de buttons/links liggen niet op dezelfde volgorde als hoe ze visueel zijn ingedeeld. (trilhanden)
 
 
+### test 1 - screenreader
+
 Ook heb ik de voiceover test gedaan, daar viel me op dat de site eigenlijk best mooi in elkaar is gezet qua semanthiek en dat de voiceover alle informatie die nodig is kan vinden en alles dat niet nodig is slaat de voiceover mooi over. Hij is wel lang bezig met het laten horen van alle informatie, maar daar ontkom je niet aan want de site zelf is informatief. Ook worden de links dubbel opgenoemd, maar ik weet niet of dat normaal ook de bedoeling is.
+
+
+### test 2 - WCAG checklist
+
